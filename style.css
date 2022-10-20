@@ -352,7 +352,7 @@ header{
     font-weight: bold;
     width: 45%;
     color: white;
-    background-color: #2e2d2d;
+    background: linear-gradient(180deg, #5e5a5a 1%, #000000 99%);
     padding-top: 25px;
 }
 
